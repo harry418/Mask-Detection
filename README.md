@@ -36,6 +36,27 @@ Our approach is to design a model using Transfer learning and opencv to detect m
 ![alt_text](https://github.com/harry418/mask-detection/blob/master/images/sample-output/590.jpeg?raw=true)
 ![alt_text](https://github.com/harry418/mask-detection/blob/master/images/sample-output/615.jpeg?raw=true)
 
+## Files Description - 
+### google_collab_training.ipynb 
+> This file contain mask detector training with CNN and Transfer learning on google collab.
+> https://github.com/harry418/Mask-Detection/blob/master/google_collab_train.ipynb
+
+### mask_detection_train.py
+> This file contain mask detector training on spyder and this file is a another version of google_collab_training.ipynb.
+> https://github.com/harry418/Mask-Detection/blob/master/mask_detection_train.py
+
+### mask_model
+> This is weight applied architecture used for future predictions.
+> https://github.com/harry418/Mask-Detection/blob/master/mask_model
+
+### mask_detect_img.py
+> This file is used for real time mask detection on a single image.
+> https://github.com/harry418/Mask-Detection/blob/master/mask_detect_img.py
+
+### mask_detect_vid.py
+> This file is used for real time mask detection on webcam or any other camera.
+> https://github.com/harry418/Mask-Detection/blob/master/mask_detect_vid.py
+
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/harry418/mask-detection/blob/master/LICENSE)
 ## Author
 >Harit Yadav
